@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Jovit Mathew</h1>
+<h1 align="center">Hi 👋, I'm Daniel Lee</h1>
 <h3 align="center">A passionate frontend and Backend developer from Kerala,India</h3>
 
 
  <a href="https://github.com/Jovit-Mathew236/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a>
 
-![](https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg)
+
 
 <!-- ![](https://img.shields.io/ore/stars/totaleconomy) 
 ![](https://img.shields.io/github/forks/jovit-mathew236/todo_app-reactjs) 
