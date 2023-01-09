@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Danie Lee</h1>
-<h3 align="center">A passionate frontend and Backend developer from Kerala,India</h3>
+<h1 align="center">Hi 👋, I'm Jovit Mathew</h1>
+<h3 align="center">A passionate frontend and Backend developer from Canada</h3>
 
 
  <a href="https://github.com/Jovit-Mathew236/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a>
 
-![]<!-- (https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg) -->
+<!-- (https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg) -->
 
 <!-- ![](https://img.shields.io/ore/stars/totaleconomy) 
 ![](https://img.shields.io/github/forks/jovit-mathew236/todo_app-reactjs) 
@@ -15,9 +15,9 @@
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
 ![](https://img.shields.io/bower/v/editor.md.svg) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jovit-mathew236&label=Profile%20views&color=0e75b6&style=flat" alt="jovit-mathew236" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jovit-mathew236&label=Profile%20views&color=0e75b6&style=flat" alt="topstar920707" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jovit-mathew236" alt="jovit-mathew236" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jovit-mathew236" alt="topstar920707" /></a> </p>
 
 <!-- - 🌱 I’m currently learning **Flutter**
 
@@ -34,9 +34,9 @@
 <div align="center">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
-<a href="https://app.daily.dev/Jovit_Mathew"><img src="https://api.daily.dev/devcards/09960e4811484f9cb5de35871627cf80.png?r=3vt" width="210" height="310" alt="Jovit Mathew's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Jovit_Mathew"><img src="https://api.daily.dev/devcards/09960e4811484f9cb5de35871627cf80.png?r=3vt" width="210" height="310" alt="Jovit Mathew's Dev Card"/></a> -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
