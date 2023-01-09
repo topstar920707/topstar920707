@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Jovit Mathew</h1>
+<h1 align="center">Hi 👋, I'm Daniel Lee</h1>
 <h3 align="center">A passionate frontend and Backend developer from Canada</h3>
 
 
