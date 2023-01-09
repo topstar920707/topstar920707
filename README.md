@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Daniel Lee</h1>
+<h1 align="center">Hi 👋, I'm Danie Lee</h1>
 <h3 align="center">A passionate frontend and Backend developer from Kerala,India</h3>
 
 
  <a href="https://github.com/Jovit-Mathew236/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a>
 
-
+![]<!-- (https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg) -->
 
 <!-- ![](https://img.shields.io/ore/stars/totaleconomy) 
 ![](https://img.shields.io/github/forks/jovit-mathew236/todo_app-reactjs) 
@@ -82,19 +82,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center">Support:</h3>
+<!-- <h3 align="center">Support:</h3> -->
 
-</br>
+<!-- </br> -->
 
-<div align="center" width="495px">
-<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&show_icons=true&locale=en&layout=compact" alt="jovit-mathew236" /></p>
+<!-- <div align="center" width="495px"> -->
+<!-- <p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&show_icons=true&locale=en&layout=compact" alt="tostar920707" /></p> -->
 
-<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api?username=jovit-mathew236&show_icons=true&locale=en" alt="jovit-mathew236" /></p>
+<!-- <p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api?username=jovit-mathew236&show_icons=true&locale=en" alt="jovit-mathew236" /></p> -->
 
-<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=jovit-mathew236&" alt="jovit-mathew236" /></p>
+<!-- <p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=jovit-mathew236&" alt="jovit-mathew236" /></p> -->
 
-<br>
-<div><a href="https://www.buymeacoffee.com/jovitmatheA"> <img align="center" src="https://raw.githubusercontent.com/Jovit-Mathew236/Jovit-Mathew236/main/default-yellow.webp" height="50" width="210" alt="jovitmatheA" /></a></div>
+<!-- <br> -->
+<!-- <div><a href="https://www.buymeacoffee.com/jovitmatheA"> <img align="center" src="https://raw.githubusercontent.com/Jovit-Mathew236/Jovit-Mathew236/main/default-yellow.webp" height="50" width="210" alt="jovitmatheA" /></a></div> -->
 
 
 <br>
