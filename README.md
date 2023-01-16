@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Daniel Lee</h1>
+<h1 align="center">Hi 👋, I'm Top Star</h1>
 <h3 align="center">A passionate Senior Full Stack Engineer from Canada</h3>
 
 
