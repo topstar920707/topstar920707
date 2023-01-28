@@ -4,8 +4,6 @@
 <h3 align="center">A passionate Senior Full Stack Engineer from Canada</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jovit-mathew236" alt="topstar920707" /></a> </p>
-
 <!-- - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://jovit-mathew236.github.io/My-Personal-Web/](https://jovit-mathew236.github.io/My-Personal-Web/)
